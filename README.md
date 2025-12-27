@@ -1,5 +1,5 @@
 # hacknu-aldarkose-storyboard
-## FLUX.1-dev + LoRA training with ai-toolkit
+## FLUX.1-dev + LoRA training with [ai-toolkit](https://github.com/ostris/ai-toolkit)
 ## Simple architecture
 ![Pipeline overview](Public/imgs/simple_architecture.png)
 ![Video](Public/1227.gif)
