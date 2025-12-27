@@ -1,8 +1,9 @@
 # hacknu-aldarkose-storyboard
-# FLUX.1-dev + LoRA training with ai-toolkit
+## FLUX.1-dev + LoRA training with ai-toolkit
 ## Simple architecture
 ![Pipeline overview](Public/imgs/simple_architecture.png)
 ![Video](Public/1227.gif)
+
 Notebook project that:
 1) generates a 6-10 card storyboard about Aldar Kose (JSON) from a single text prompt,
 2) renders each card into an image using FLUX.1 with a custom LoRA,
@@ -10,6 +11,7 @@ Notebook project that:
 4) optionally interpolates frames into a video (`out.mp4`).
 ## Example
 Prompt:Aldar Kose fell in love but got rejected and accepted it
+
 ![exm1](Public/imgs/img1.png)
 ![exm2](Public/imgs/img2.png)
 ![exm3](Public/imgs/img7.png)
